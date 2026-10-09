@@ -31,6 +31,14 @@ Unique indexes on `source_id` prevent the same source record from being imported
 - Uvicorn
 - python-dotenv
 
+![](screenshots/Screenshot%202026-10-09%20185136.png)
+
+![](screenshots/Screenshot%202026-10-09%20185149.png)
+
+![](screenshots/Screenshot%202026-10-09%20185202.png)
+
+![](screenshots/Screenshot%202026-10-09%20185336.png)
+
 ## Project Structure
 
 ```text
@@ -303,4 +311,3 @@ json2mongo
 ├── posts
 └── comments
 ```
-
